@@ -1,0 +1,1 @@
+console.log('Sözlük Kafe script çalışıyor!');
